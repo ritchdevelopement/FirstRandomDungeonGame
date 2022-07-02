@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Enemy
+  - TreantProjectile
+  - Wall
+  - SpawnPoint
+  - Rooms
+  - Door
+  - RoomExit
+  - DoorCheck
+  - Exit
+  - StartRoom
+  - RoomActivator
+  - Coin
+  - ProjectileExplosion
+  - Arrow
+  - Weapon
+  - DialogActivator
+  - Seller
+  - SellerWindow
+  - Game
+  - Heart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - PlayerProjectile
+  - Enemy
+  - EnemyProjectile
+  - Pickable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3944947807
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 1028195087
+    locked: 0
